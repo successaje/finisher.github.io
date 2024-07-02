@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Success Aje"
   pronouns         : # example: "she/her"  
   bio              : "Tech geek | Blockchain and gaming enthusiast | Developer of innovative web solutions | Forever curious."
