@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-![](/images/comp.webp){: .align-right width="300px"} 
-
+![Illustration](/images/comp.webp){: .align-right width="300px"} 
 💻 I'm a versatile web developer with over three years of experience in the tech industry. My journey began with API development using Django, Python, and Node.js, and I quickly transitioned into blockchain technologies, mastering Solidity, Motoko, and Rust. 🚀
 
 ## Professional Journey 💼
