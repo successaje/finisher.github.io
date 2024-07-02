@@ -10,13 +10,13 @@ main:
   #   url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /portfolio/gamebloc.md
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/resume.pdf
+    url: ../files/resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
